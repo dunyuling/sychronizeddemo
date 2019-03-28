@@ -1,4 +1,4 @@
-#synchronized（from:https://www.imooc.com/learn/1086）
+#synchronized（from:https://www.imooc.com/learn/1086）  
 ##两种用法
 + 第一个用法:对象锁  
     + 代码块形式:手动指定对象锁  
